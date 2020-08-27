@@ -1,0 +1,14 @@
+table{
+  margin: auto;
+}
+td{
+  border: 5px solid black;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 90px;
+  background: #DF7F54;
+}
+.container{
+  background: #A36D8F;
+}
